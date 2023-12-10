@@ -1,6 +1,6 @@
 # React + Vite
 
-# Chat Room Project
+# Chat Room Project with Firebase
 
 ## What we used in this project
 - authentication
